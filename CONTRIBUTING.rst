@@ -21,7 +21,7 @@ own code:
 -   Discord link: https://discord.gg/c5bg8dMZ
 
 .. _Stack Overflow: https://stackoverflow.com/questions/tagged/flask?tab=Frequent
-.. _GitHub Discussions: https://discord.gg/c5bg8dMZ
+
 
 
 Reporting issues
