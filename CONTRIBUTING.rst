@@ -18,6 +18,7 @@ own code:
 -   Ask on `Stack Overflow`_. Search with Google first using:
     ``site:stackoverflow.com flask {search term, exception message, etc.}``
 -   Ask on our #help discussion on discord.
+-   Discord link: https://discord.gg/c5bg8dMZ
 
 .. _Stack Overflow: https://stackoverflow.com/questions/tagged/flask?tab=Frequent
 .. _GitHub Discussions: https://discord.gg/c5bg8dMZ
